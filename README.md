@@ -1,11 +1,11 @@
-# Sistema de Gestión de Citas
+# 🩺💊 Sistema de Gestión de Citas
 
 El Sistema de Gestión de Citas Médicas es una aplicación desarrollada con Laravel que permite gestionar la agenda de citas médicas de una manera eficiente. La aplicación está diseñada para que los administradores puedan gestionar médicos, centros de salud, especialidades, horarios de atención y más.
 
 El sistema utiliza una API CRUD para realizar operaciones de creación, eliminación y edición de médicos, garantizando una gestión flexible y adaptativa.
 
 
-# De qué trata 
+# 🙈 De qué trata 
 
 La aplicación web es un sistema de gestión de citas diseñado para facilitar la organización de centros que trabajan con citas y reservas, como clínicas, centros de salud, consultorías, entre otros. Aquí te detallo su funcionamiento y características clave:
 
@@ -30,7 +30,7 @@ La plataforma permite registrar y gestionar a los pacientes del centro, mantenie
 La herramienta ofrece un calendario donde se pueden agendar, modificar y cancelar citas de manera ágil y organizada. Los usuarios tienen la posibilidad de ver las citas programadas, asignarlas a un profesional específico y recibir notificaciones o recordatorios para minimizar ausencias o cancelaciones de último minuto.
 Esta plataforma no solo optimiza el flujo de trabajo dentro del centro, sino que también mejora la experiencia del usuario final, creando una interfaz sencilla y eficiente para la administración de citas y la comunicación entre pacientes y profesionales.
 
-## Funcionalidades 🚀
+## ✨ Funcionalidades 🚀
 
 _Autenticación de Administrador: Los usuarios pueden iniciar sesión como administradores para acceder a la aplicación y pueden:_.
 1. Gestión de Médicos: Permite crear, editar y eliminar médicos.
@@ -38,7 +38,10 @@ _Autenticación de Administrador: Los usuarios pueden iniciar sesión como admin
 3. Gestión de Especialidades: Añadir y modificar especialidades médicas.
 4. Horarios de Atención: Configurar horarios para centros y profesionales médicos.
 
-## Uso 
+## 💻 Uso 
+
+--------
+
 ### Iniciar Sesión 
 
 1. Navegue a http://localhost:8000/login.
@@ -59,12 +62,14 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 - GET /api/medicos/{id}: Muestra la información de un médico específico.
 - PUT /api/medicos/{id}: Actualiza la información de un médico específico.
 - DELETE /api/medicos/{id}: Elimina un médico específico.
+- 
 #### Centros
 - GET /api/centros: Lista todos los centros.
 - POST /api/centros: Crea un nuevo centro.
 - GET /api/centros/{id}: Muestra la información de un centro específico.
 - PUT /api/centros/{id}: Actualiza la información de un centro específico.
 - DELETE /api/centros/{id}: Elimina un centro específico.
+- 
 #### Especialidades
 - GET /api/especialidades: Lista todas las especialidades.
 - POST /api/especialidades: Crea una nueva especialidad.
@@ -72,29 +77,31 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 - PUT /api/especialidades/{id}: Actualiza la información de una especialidad específica.
 - DELETE /api/especialidades/{id}: Elimina una especialidad específica.
 
+------
+
 ## Construido con 🛠️
 
 * [Laravel](https://laravel.com/docs/8.x/releases) - El framework web usado
 * [Maven](https://mariadb.org/) - Manejador de dependencias
 * [MySQL](https://www.mysql.com/) y HeidiSQL - Gestión de base de datos
 
-## Requisitos del sistema 
+## ⌨️ Requisitos del sistema 
 - PHP >= 8.3
 - Composer
 - MySQL
 - Laravel >= 8.4
 
-## Autores ✒️
+## 👩‍💻 Autores ✒️
 
 
 * **Laura Castaño** - [Laura Castaño](https://github.com/lauracastadiaz)
 
 
-## Licencia 📄
+## 📄 Licencia 
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Contribuciones
+## ⭐ Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
@@ -104,7 +111,7 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 4. Envía los cambios a tu rama (git push origin feature/nueva-funcionalidad).
 5. Crea un Pull Request.
 
-## Expresiones de Gratitud 🎁
+## 🎁 Agradecimientos
 
 * Espero que os guste, si tienes alguna pregunta, no dudes en preguntarme 📢
 * Y por último, muchas gracias a mis tutores de prácticas, que sin ellos esto no hubiera sido posible, ya que es mi primera aplicación oficial realizada exclusivamente por mí 🤓
