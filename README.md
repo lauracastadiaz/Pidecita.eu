@@ -104,6 +104,7 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 
 
 * **Laura Castaño** - [Laura Castaño](https://github.com/lauracastadiaz)
+* **Miguel Garoz** - [Miguel Garoz](https://xpanse.studio/)
 
 ## ⭐ Contribuciones
 
