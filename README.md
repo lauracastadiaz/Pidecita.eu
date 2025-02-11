@@ -103,8 +103,8 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 ## 👩‍💻 Autores ✒️
 
 
-* **Laura Castaño** - [Laura Castaño](https://github.com/lauracastadiaz)
-* **Miguel Garoz** - [Miguel Garoz](https://xpanse.studio/)
+* [Laura Castaño](https://github.com/lauracastadiaz)
+* [Miguel Garoz](https://xpanse.studio/)
 
 ## ⭐ Contribuciones
 
