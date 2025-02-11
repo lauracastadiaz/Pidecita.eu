@@ -84,15 +84,15 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 * [Laravel](https://laravel.com/docs/8.x/releases) - El framework web usado
 * [Maven](https://mariadb.org/) - Manejador de dependencias
 * [MySQL](https://www.mysql.com/) y HeidiSQL - Gestión de base de datos
-* jQuery 3.5.1 - como librería JavaScript
-* nginx - Web Server
-* Parallels Plesk Panel - Operating Systems and Servers
-* Google Font API - Widget
-* Viewport Meta y Iphone / Mobile Compatible y Apple Mobile Web Clips Icon - Mobile
-* French Server Locatrion y OVH - Web Hosting Providers
-* HSTS, SSL by Default y LetsEncrypt - SSL Certificates
-* Blade - motor de plantillas
-* Laravel-mix - integración JavaScript
+* [jQuery] 3.5.1 - como librería JavaScript
+* [nginx] - Web Server
+* [Parallels Plesk Panel] - Operating Systems and Servers
+* [Google Font API] - Widget
+* [Viewport Meta y Iphone / Mobile Compatible y Apple Mobile Web Clips Icon] - Mobile
+* [French Server Locatrion y OVH] - Web Hosting Providers
+* [HSTS, SSL by Default y LetsEncrypt] - SSL Certificates
+* [Blade] - motor de plantillas
+* [Laravel-mix] - integración JavaScript
 
 ## ⌨️ Requisitos del sistema 
 - PHP >= 8.3
