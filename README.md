@@ -76,7 +76,7 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 
 * [Laravel](https://laravel.com/docs/8.x/releases) - El framework web usado
 * [Maven](https://mariadb.org/) - Manejador de dependencias
-* [MariaDB]() - Gestión de base de datos
+* [MySQL](https://www.mysql.com/) y HeidiSQL - Gestión de base de datos
 
 ## Requisitos del sistema 
 - PHP >= 8.3
