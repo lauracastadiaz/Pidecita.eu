@@ -40,8 +40,6 @@ _Autenticación de Administrador: Los usuarios pueden iniciar sesión como admin
 
 ## 💻 Uso 
 
---------
-
 ### Iniciar Sesión 
 
 1. Navegue a http://localhost:8000/login.
@@ -54,7 +52,9 @@ _Autenticación de Administrador: Los usuarios pueden iniciar sesión como admin
 
 Igual con el resto de secciones. Estas funcionalidades están disponibles a través de la interfaz de administración de la aplicación, accesible después de iniciar sesión.
 
-## Endpoints de la API
+------
+
+## ✔️ Endpoints de la API
 
 #### Médicos
 - GET /api/medicos: Lista todos los médicos.
@@ -62,21 +62,21 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 - GET /api/medicos/{id}: Muestra la información de un médico específico.
 - PUT /api/medicos/{id}: Actualiza la información de un médico específico.
 - DELETE /api/medicos/{id}: Elimina un médico específico.
-- 
+  
 #### Centros
 - GET /api/centros: Lista todos los centros.
 - POST /api/centros: Crea un nuevo centro.
 - GET /api/centros/{id}: Muestra la información de un centro específico.
 - PUT /api/centros/{id}: Actualiza la información de un centro específico.
 - DELETE /api/centros/{id}: Elimina un centro específico.
-- 
+  
 #### Especialidades
 - GET /api/especialidades: Lista todas las especialidades.
 - POST /api/especialidades: Crea una nueva especialidad.
 - GET /api/especialidades/{id}: Muestra la información de una especialidad específica.
 - PUT /api/especialidades/{id}: Actualiza la información de una especialidad específica.
 - DELETE /api/especialidades/{id}: Elimina una especialidad específica.
-
+  
 ------
 
 ## Construido con 🛠️
@@ -95,11 +95,6 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 
 
 * **Laura Castaño** - [Laura Castaño](https://github.com/lauracastadiaz)
-
-
-## 📄 Licencia 
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## ⭐ Contribuciones
 
