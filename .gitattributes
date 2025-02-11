@@ -1,0 +1,10 @@
+*.php linguist-detectable=true
+*.js linguist-detectable=false
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.json linguist-detectable=false
+
+*.json linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
